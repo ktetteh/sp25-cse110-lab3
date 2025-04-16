@@ -1,1 +1,13 @@
 Fill in the passphrases here.
+<!-- Passcode for question 1: WongAvery -->
+question2=\"iHateC++
+<p hidden=""> Passcode for question 3: HTMLRules</p>
+<question-four style="display:none">Passcode: JavaScriptRocks</question-four>
+<span style="opacity: 0;">Question 5 Passcode: ShraviBeatsReact</span>
+Question 6 Passcode: ThisIsJSyay
+Question 7 Passcode: SofiaWasHere
+Question 8: coolcoolcool3x
+<h2>Question 9 passcode: 2020_sucked</h2>
+Question 10: listenoPetalCore
+question11\" content=\"ElaineFirst\"
+<div data-question12passcode="iHeartWebDev"></div>
