@@ -1,0 +1,26 @@
+/* Color for h1 */
+h1 {
+    color: navy;
+}
+/* Color for h2 */
+h2{
+    color: #2ac1c6;
+}
+/* Color for h3 */
+h3 {
+    color: rgb(214, 128, 127);
+}
+.thought{
+    background-color: lightcoral;
+}
+.powerRangers {
+    color: color(display-p3 2 0.5 0 / 0.7);
+    fallback: green;
+}
+.highlight {
+    color: color-mix(in srgb, red 60%, blue 40%);
+  }
+.border2 {
+    margin 
+}
+
